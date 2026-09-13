@@ -1,0 +1,1 @@
+echo 'su -c "settings put secure android_id f77d5bd408f375b3"' >> ~/.bashrc
